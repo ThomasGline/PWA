@@ -1,0 +1,18 @@
+{
+    "lang": "fr",
+    "dir": "ltr",
+    "name": "PWA de ma one-page",
+    "short_name": "PWA",
+    "background_color": "#ffffff",
+    "theme_color": "#ffffff",
+    "start_url": ".",
+    "display": "standalone",
+    "orientation": "natural",
+    "icons": [
+        {
+            "src": "assets/images/icon.png",
+            "sizes": "310x310",
+            "type": "image/png"
+        }
+    ]
+}
